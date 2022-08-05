@@ -1,1 +1,1 @@
-# django_web_site
+# Templates taken free-css.com
